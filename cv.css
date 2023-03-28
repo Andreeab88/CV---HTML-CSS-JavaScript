@@ -1,0 +1,61 @@
+
+#body{background-color: rgb(201, 186, 236);}
+
+#title-header{
+    text-align: center;
+    font-family: "Brush Script MT", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+background-color: rgb(150, 100, 229);
+font-size: 20px;
+
+}
+
+#menu ul li a{
+    display: block;
+    text-decoration: none;
+    color: #131213;
+    border-top: 1px solid #ffffff;
+    padding: 5px 15px 5px
+    15px;
+    background: #e3afe3f7;
+    margin-left: 1px;
+    white-space: nowrap;}
+    #menu ul li a:hover{
+    color: red;
+    }
+
+   
+    
+
+#contact{text-align: left;
+    font-family:  "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+background-color: rgb(227, 100, 229);
+font-size: 20px;}
+
+#education{
+    text-align: center;
+    font-family: "Brush Script MT", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+background-color: rgb(150, 100, 229);
+font-size: 20px;
+
+}
+
+#skills_languages{
+    text-align: left;
+    font-family: "Brush Script MT", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+background-color: rgb(150, 100, 229);
+font-size: 20px;
+
+}
+
+#soft_skills{
+    float:right;
+    text-align: center;
+    font-family: "Brush Script MT", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+background-color: rgb(150, 100, 229);
+font-size: 20px; 
+}
