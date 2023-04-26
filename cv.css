@@ -1,5 +1,5 @@
 
-#body{background-color: rgb(201, 186, 236);}
+#body{background-color: rgb(113, 152, 160);}
 
 #title-header{
     text-align: center;
@@ -17,11 +17,11 @@ font-size: 20px;
     border-top: 1px solid #ffffff;
     padding: 5px 15px 5px
     15px;
-    background: #e3afe3f7;
+    background: none;
     margin-left: 1px;
     white-space: nowrap;}
     #menu ul li a:hover{
-    color: red;
+    color: rgb(118, 216, 213);
     }
 
    
@@ -30,32 +30,6 @@ font-size: 20px;
 #contact{text-align: left;
     font-family:  "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-background-color: rgb(227, 100, 229);
+background-color:rgb(113, 152, 160);
 font-size: 20px;}
 
-#education{
-    text-align: center;
-    font-family: "Brush Script MT", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-background-color: rgb(150, 100, 229);
-font-size: 20px;
-
-}
-
-#skills_languages{
-    text-align: left;
-    font-family: "Brush Script MT", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-background-color: rgb(150, 100, 229);
-font-size: 20px;
-
-}
-
-#soft_skills{
-    float:right;
-    text-align: center;
-    font-family: "Brush Script MT", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-background-color: rgb(150, 100, 229);
-font-size: 20px; 
-}
